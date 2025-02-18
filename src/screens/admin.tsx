@@ -4,7 +4,7 @@ import React from 'react'
 export default function admin() {
   return (
     <View>
-      for test purposes
+      for testing 
     </View>
   )
 }
