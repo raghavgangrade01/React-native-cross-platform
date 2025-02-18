@@ -7,4 +7,4 @@ export default function admin() {
       <Text>admin</Text>
     </View>
   )
-} 
+}
